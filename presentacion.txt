@@ -1,0 +1,6 @@
+Mi nombre es Juan Sebastian Valdez.
+
+Soy estudiante de Ingeniería Informática.
+
+Este repositorio contiene mis 
+proyectos de desarrollo de software.
